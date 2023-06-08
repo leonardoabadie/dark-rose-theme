@@ -2,20 +2,48 @@
   "name": "dark-rose",
   "displayName": "Dark Rose",
   "description": "Modern dark theme made for owl programmers",
+  "publisher": "leonardoabadie",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.78.0"
   },
+  "icon": "images/icon/dark-rose-icon.png",
+  "author": {
+    "name": "Leonardo Abadie",
+    "email": "leonardo_abadie@proton.me"
+  },
+  "repository": {
+    "url": "https://github.com/leonardoabadie/dark-rose-theme/",
+    "type": "git" 
+  },
+  "homepage": "https://github.com/leonardoabadie/dark-rose-theme/README.md",
   "categories": [
     "Themes"
   ],
   "contributes": {
     "themes": [
       {
+        "id": "dark-rose-theme-soft",
         "label": "Dark Rose",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-rose-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "theme",
+    "scheme",
+    "color theme",
+    "dark",
+    "Mr. Robot",
+    "ChatGPT",
+    "JetBrains",
+    "modern",
+    "soft",
+    "minimalistic",
+    "creative",
+    "intuitive",
+    "One Dark Pro",
+    "dark theme"
+  ]
 }
