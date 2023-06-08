@@ -288,7 +288,7 @@
       }
     },
     {
-      "name": "Support, Meta Generic",
+      "name": "Support, Meta Generic, SQL Keyword",
       "scope": [
         "support",
         "support.class",
@@ -297,7 +297,9 @@
         "support.type",
         "support.type.property-name",
         "support.variable",
-        "meta.function-call.generic"
+        "meta.function-call.generic",
+        "source.sql.embedded",
+        "keyword.other.DML.sql"
       ],
       "settings": {
         "foreground": "#64c7e6"
