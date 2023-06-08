@@ -1,0 +1,21 @@
+{
+  "name": "dark-rose",
+  "displayName": "Dark Rose",
+  "description": "Modern dark theme made for owl programmers",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Rose",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-rose-color-theme.json"
+      }
+    ]
+  }
+}
