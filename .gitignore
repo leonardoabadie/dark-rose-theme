@@ -1,6 +1,5 @@
 node_modules
 .vscode/
-vsc-extension-quickstart.md
 README.md
 CHANGELOG.md
 *.vsix
