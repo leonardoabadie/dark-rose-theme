@@ -6,10 +6,10 @@ It took inspiration from ChatGPT's code snippet theme and Mr. Robot series that 
 
 ## Go straight for
 
-* [Confession](##Confession)
-* [Color theme demonstration](##Color-theme-demonstration)
-* [Enhancing your experience](##Enhancing-your-experience)
-* [Public TODO](##Public-TODO)
+* [Confession](##confession)
+* [Color theme demonstration](##color-theme-demonstration)
+* [Enhancing your experience](##enhancing-your-experience)
+* [Public TODO](##public-todo)
 
 ## Confession
 
@@ -21,17 +21,17 @@ The following images demonstrate how code is displayed using the theme.
 
 ### Samples
 
-* [HTML Sample](###HTML-Sample)
-* [CSS Sample](###CSS-Sample)
-* [JS Sample](###JS-Sample)
-* [TS Sample](###TS-Sample)
-* [JSON Sample](###JSON-Sample)
-* [PHP Sample](###PHP-Sample)
-* [SQL Sample](###SQL-Sample)
-* [PYTHON Sample](###PYTHON-Sample)
-* [JAVA Sample](###JAVA-Sample)
-* [MARKDOWN Sample](###MARKDOWN-Sample)
-* [Macro View Sample](###Macro-View-Sample)
+* [HTML Sample](###html-sample)
+* [CSS Sample](###css-sample)
+* [JS Sample](###js-sample)
+* [TS Sample](###ts-sample)
+* [JSON Sample](###json-sample)
+* [PHP Sample](###php-sample)
+* [SQL Sample](###sql-sample)
+* [PYTHON Sample](###python-sample)
+* [JAVA Sample](###java-sample)
+* [MARKDOWN Sample](###markdown-sample)
+* [Macro View Sample](###macro-view-sample)
 
 ### HTML Sample
 
